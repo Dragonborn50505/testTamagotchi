@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7zj9lDcUazw/GD/UH4/gDjcbwoo6ug8YeNLvsAEtxTGFz3lTyLMlbuXe91MLxWatD4GpaIvgW8KP5G0UQsiChw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\allinggard.vincent\\null\\testTamagotchi\\testTamagotchi\\testTamagotchi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allinggard.vincent\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\allinggard.vincent\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
